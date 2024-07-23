@@ -1,0 +1,1 @@
+{"type":"module","dependencies":{"dotenv":"^16.4.5","express":"^4.19.2","openai":"^4.53.0","readline-sync":"^1.4.10"},"name":"s1d2--in-class-assignment","version":"1.0.0","description":"GPT CLI Application","main":"openai-test.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"keywords":[],"author":"","license":"ISC"}
